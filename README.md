@@ -31,8 +31,8 @@
 
 # 📈 GitHub Stats
 
-<p><img align="left" width="385" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukesh2m2&show_icons=true&locale=en&layout=compact" alt="mukesh2m2" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukesh2m2&show_icons=true&locale=en&layout=compact" alt="mukesh2m2" /></p>
 
-<p>&nbsp;<img align="center" width="515" src="https://github-readme-stats.vercel.app/api?username=mukesh2m2&show_icons=true&locale=en" alt="mukesh2m2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukesh2m2&show_icons=true&locale=en" alt="mukesh2m2" /></p>
 
-<p><img align="center" width="920" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukesh2m2&" alt="Mukesh2m2" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukesh2m2&" alt="Mukesh2m2" /></p>
