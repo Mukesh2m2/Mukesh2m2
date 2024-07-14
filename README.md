@@ -8,7 +8,10 @@
 
 
 <h3 > About Me:</h3>
+
 - 🌱 I’m currently learning **Deep learning, DSA etc.**
+  
+- 🔭 I’m currently working on different **Deeplearning Projects**
 
 - 💬 Ask me about **Coding, DSA and Deep learning.**
 
