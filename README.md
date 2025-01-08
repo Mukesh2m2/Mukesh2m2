@@ -24,7 +24,6 @@
 <a href="https://www.codechef.com/users/curiouscoder10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="curiouscoder10" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mukeshchoudhar12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mukeshchoudhar12" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/robocoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="robocoder" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/mukeshchoudhary2m2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="mukeshchoudhary2m2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> 💻 Languages and Tools</h3>
